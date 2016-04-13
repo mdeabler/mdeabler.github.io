@@ -10,4 +10,4 @@ When loggin in again, the create post tab will appear at the top of the screen, 
 
 Clicking the newsbase icon in the upper left hand corner will also take you to the home screen. 
 
-This website is incredibly simple, and since I am fairly new to coding and front end web development, I tried to stick to the basic requirements of this assignment even though I wanted to do much more. It took me so long to do just this process, but I tried to hit all of the assignment requirements in some way.
+This website is incredibly simple, and since I am fairly new to coding and front end web development, I tried to stick to the basic requirements of this assignment even though I wanted to do much more. It took me so long to do just this process, but I tried to hit all of the assignment requirements in some way.# mdeabler.github.io
